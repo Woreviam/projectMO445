@@ -1,0 +1,2 @@
+Accuracy for current delineation model:0.2044
+,0.2987
